@@ -1,0 +1,13 @@
+{
+  "name": "hexlet-task-manager-practice",
+  "version": "1.0.0",
+  "description": "Task manager for Hexlet College practice",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^4.0.0",
+    "prisma": "^5.0.0",
+    "react": "^18.0.0"
+  },
+  "author": "iminluw",
+  "license": "MIT"
+}
