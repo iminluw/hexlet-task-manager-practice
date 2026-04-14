@@ -1,3 +1,5 @@
+[![Maintainability](https://codeclimate.com)](https://codeclimate.com)
+
 # Hexlet Task Manager
 Практическая работа по модулю ПМ.01 «Разработка модулей программного обеспечения».
 
